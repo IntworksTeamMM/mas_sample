@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_info.xml",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\xml\\widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_info_take_photo.xml",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\xml\\widget_info_take_photo.xml"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_mic_red_48dp.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-xxhdpi\\ic_mic_red_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\settings.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-xxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher_take_photo.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_take_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\exposure.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-xxhdpi\\exposure.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\trash.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-xxhdpi\\trash.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\flash_auto.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-xxhdpi\\flash_auto.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\flash_on.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-xxhdpi\\flash_on.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\switch_camera.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-xxhdpi\\switch_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\flash_off.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-xxhdpi\\flash_off.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\share.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-xxhdpi\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_mic_white_48dp.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-xxhdpi\\ic_mic_white_48dp.png"
+    }
+]

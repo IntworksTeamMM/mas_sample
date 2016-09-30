@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\popup_flash_auto.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\popup_flash_auto.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\take_video_pressed.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\take_video_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\focus_mode_continuous_picture.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\focus_mode_continuous_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\flash_off.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\flash_off.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\focus_mode_infinity.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\focus_mode_infinity.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\flash_red_eye.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\flash_red_eye.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exposure_locked.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\exposure_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exposure_unlocked.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\exposure_unlocked.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_mic_white_48dp.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\ic_mic_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\popup_flash_torch.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\popup_flash_torch.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\take_video.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\take_video.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\take_video_recording.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\take_video_recording.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\trash.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\trash.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_mic_red_48dp.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\ic_mic_red_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\popup.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\popup.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\focus_mode_macro.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\focus_mode_macro.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\focus_mode_fixed.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\focus_mode_fixed.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\focus_mode_manual.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\focus_mode_manual.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\popup_flash_off.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\popup_flash_off.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\popup_flash_on.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\popup_flash_on.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\earth_off.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\earth_off.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher_take_photo.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_take_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\earth.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\earth.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\settings.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exposure.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\exposure.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\take_photo_pressed.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\take_photo_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\share.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\focus_mode_edof.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\focus_mode_edof.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\focus_mode_continuous_video.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\focus_mode_continuous_video.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\take_photo.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\take_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\focus_mode_locked.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\focus_mode_locked.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\gallery.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\switch_video.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\switch_video.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\focus_mode_auto.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\focus_mode_auto.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\flash_torch.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\flash_torch.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\switch_camera.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\switch_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\popup_flash_red_eye.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\popup_flash_red_eye.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\flash_on.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\flash_on.png"
+    },
+    {
+        "merged": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\flash_auto.png",
+        "source": "C:\\Users\\massa\\Documents\\app01\\yamas\\opencamera\\app\\src\\main\\res\\drawable-mdpi\\flash_auto.png"
+    }
+]
